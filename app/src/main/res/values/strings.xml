@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">geektech.android.6hw</string>
+    <string name="dobro">Добро пожаловать!</string>
+    <string name="vypolnite">Выполните вход \nили зарегистрируйтесь.</string>
+    <string name="vhod">Вход</string>
+    <string name="vveditepochtu">Введите вашу почту</string>
+    <string name="vvedite_parol">Введите пароль</string>
+    <string name="voity">Войти</string>
+    <string name="zabyli_parol">Забыли пароль ?</string>
+</resources>
